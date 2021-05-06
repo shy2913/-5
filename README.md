@@ -21,3 +21,12 @@ Ordered
 위 문장에서 두 칸의 공백을 두어 강제로 개행 할 수 있습니다.
 이미지 삽입 방법
 [GitHub](http://github.com "깃허브")
+```javascript 
+function test() { 
+ console.log("hello world!"); 
+} 
+```
+As Grace Hopper said: 
+
+> I’ve always been more interested. 
+> in the future than in the past.
